@@ -1,0 +1,4 @@
+rootProject.name = 'bowling-game'
+include 'bowling-core'
+include 'bowling-ui'
+
