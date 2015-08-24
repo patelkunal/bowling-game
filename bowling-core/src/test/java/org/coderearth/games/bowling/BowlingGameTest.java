@@ -23,6 +23,6 @@ public class BowlingGameTest {
 
     @Test
     public void testGetInstance() throws Exception {
-
+        assertNotNull(BowlingGame.getInstance());
     }
 }
